@@ -1,10 +1,6 @@
 <html>
 <body bgcolor="yellow">
-<h1>welcome to review session for all</h1>
-<h1>welcome to all aws devops engineers</h1>
-<h1>welcome to all my colegues</h1>
-<h1>wecome to all tension faces</h1>
-<h1>welcome to aws devops people</h1>
-<h1>welcome to my new session</h1>
+<h1>welcome to git review session</h1>
+<h1>welcome to aws devops engineers</h1> 
 </body>
 </html>
